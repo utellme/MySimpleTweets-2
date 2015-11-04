@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Tweets</string>
+    <string name="login_label">Connect To Twitter</string>
+    <string name="user_text">User Text</string>
+    <string name="user_name">User Name</string>
+    <string name="body_text">Body</string>
+    <string name="time_text">Relative Time</string>
+    <string name="text_likes">1234</string>
+    <string name="new_tweet_app_name">New Tweet</string>
+    <string name="button_Tweet">Tweet</string>
+    <string name="user_profile">Profile</string>
+    <string name="user_tagline">Tagline</string>
+
+</resources>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/build/intermediates/pre-dexed/debug/org.apache.http.legacy-2b264124fce66a2d0474cb6c31e1b496659a1990.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/libs/codepath-oauth-0.4.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-16135a3799b35146ec2ec815be485d470b6feea8.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-896467a3996f74b0a48b2794a32cf16ccccb29be.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-utils-d8f776b07e7394eb12b3534630ad930f4f522e5c.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-utils-ec2dbf5f311465365da2f64eb2a5857d95e09c97.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/build/intermediates/pre-dexed/debug/org.apache.http.legacy-83ca3099d088087b6b60f290f377c8b7180a056f.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.8/77bbfe240e437ecb396d982afa0d3bd4f9090ba7/android-async-http-1.4.8.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.8-034bc142e13e7cb39367756c38a48d4dd73cf08e.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-f06c73e12a5f87f4a1c98562ed7f092013aa3c98.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-6a37e4f03478b13ad683f8af4e4e9aab84310135.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-a322a18e3fb8d44f06dbf46f4d600a9bdc9634ae.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT-df5a9842a7a2e836522d34b37acda9991d556635.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-0589f07d3f0866471af0e382c315e9beff139e33.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-d24b0acb99dd05b10c9fb4ee957cc1b08fb5ba15.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-84f562debc1b6c5c4ab3f59b8dd6174a384948e4.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/libs/scribe-codepath-0.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a580d06de954001f787e8d024bfcf931fe30bdda">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-45899e88e2131e44b0e51acda25c6246644d3557.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/libs/scribe-codepath-0.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a580d06de954001f787e8d024bfcf931fe30bdda">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-df6bbe72d0514cf18a42dcaea95108e701f48246.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-084661fa09f8262fed32b71d9c2debcccbe5f7d0.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-a0100085ddfc90453944c58180b2a45a0197edb2.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-9d3c7caf43d3c6a459a1329422bc6ad2a3087860.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK3/MySimpleTweets/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-70ecc5bf465e0f531784e6321f66ecf58556982e.jar" />
+    </item>
+    <item
+        jar="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/libs/codepath-oauth-0.4.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
+        <dex dex="/Users/dvalia/Documents/workspace-sts/android_bootcamp/WK4/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-8c2cbe98368cc8934dafb42bf7d34f28a9dea5a1.jar" />
+    </item>
+
+</items>
